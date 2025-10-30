@@ -1,4 +1,4 @@
-# practica_entornos_python
+# 💻PRACTICA_ENTORNOS_PYTHON
 
 ## Versión de Python utilizada
 Python 3.11.2
@@ -6,7 +6,7 @@ Python 3.11.2
 ---
 
 
-## Descripción general de la actividad
+## 📄Descripción general de la actividad
 En esta práctica, exploramos el fascinante mundo de los entornos virtuales en Python, aprendiendo a crearlos y gestionarlos eficientemente. El objetivo principal fue desarrollar dos proyectos independientes, cada uno en su propio espacio aislado.
 
 
@@ -24,11 +24,12 @@ Los entornos virtuales no se incluyen en el repositorio por buenas prácticas, p
 
 ---
 
-##  Actividades realizadas :
+#  Actividades realizadas :
 
 ### 1️⃣.Creación de los entornos virtuales.
 
-   capturas de `python -m venv venv_1`
+   capturas de :
+    `python -m venv venv_1`
   ![texto_alternativo](img/venv1.png)
 
 
@@ -40,7 +41,7 @@ Los entornos virtuales no se incluyen en el repositorio por buenas prácticas, p
 
 ### 2️⃣.Activación de los entornos.
  
-  capturas de 
+  capturas de :
   `venv_1\Scripts\activate`
   ![texto_alternativo](img/active_venv1.png)
     
@@ -51,7 +52,7 @@ Los entornos virtuales no se incluyen en el repositorio por buenas prácticas, p
 ---
 
 ### 3️⃣.Instalación de los paquetes (jupyter / pandas).
-  capturas de 
+  capturas de :
   `pip install jupyter`
   ![texto_alternativo](img/jupyter.png)
   
@@ -84,11 +85,12 @@ Los entornos virtuales no se incluyen en el repositorio por buenas prácticas, p
   ![texto_alternativo](img/requirementsA.png)
 
 
-  `proyecto_B/requirements.txt`
-  ![texto_alternativo](img/requirementsB.png)
+   `proyecto_B/requirements.txt`
+    ![texto_alternativo](img/requirementsB.png)
 
 ---
 ### 6️⃣.Enlace al repositorio público de GitHub.
+(https://github.com/YinethAragon/PRACTICA_ENTORNOS_PYTHON)
 
 ### 7️⃣.Estructura de carpetas visible en Visual Studio Code o en terminal.
 
