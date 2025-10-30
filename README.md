@@ -1,4 +1,4 @@
-# 💻PRACTICA_ENTORNOS_PYTHON
+# 💻.PRACTICA_ENTORNOS_PYTHON
 
 ## Versión de Python utilizada
 Python 3.11.2
@@ -6,7 +6,7 @@ Python 3.11.2
 ---
 
 
-## 📄Descripción general de la actividad
+## 📄.Descripción general de la actividad
 En esta práctica, exploramos el fascinante mundo de los entornos virtuales en Python, aprendiendo a crearlos y gestionarlos eficientemente. El objetivo principal fue desarrollar dos proyectos independientes, cada uno en su propio espacio aislado.
 
 
@@ -88,7 +88,10 @@ Los entornos virtuales no se incluyen en el repositorio por buenas prácticas, p
    `proyecto_B/requirements.txt`
    ![texto_alternativo](img/requirementsB.png)
 
+
 ---
+
+
 ### 6️⃣.Enlace al repositorio público de GitHub.
 (https://github.com/YinethAragon/PRACTICA_ENTORNOS_PYTHON)
 
