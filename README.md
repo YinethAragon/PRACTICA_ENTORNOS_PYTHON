@@ -86,7 +86,7 @@ Los entornos virtuales no se incluyen en el repositorio por buenas prácticas, p
 
 
    `proyecto_B/requirements.txt`
-    ![texto_alternativo](img/requirementsB.png)
+   ![texto_alternativo](img/requirementsB.png)
 
 ---
 ### 6️⃣.Enlace al repositorio público de GitHub.
